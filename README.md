@@ -1,7 +1,53 @@
 # Tugas4_PAM_Pengingat_App
 
 ### Deskripsi Aplikasi
-Aplikasi yang dibuat adalah aplikasi yang dapat membuat pengingat pada ponsel kita dengan memanfaatkan fitur notifikasi. Lama waktu mundur untuk pengingat dapat diatur dengan jangka maksimal 24 jam. Kita dapat mengubah judul notifikasi dan isi dari notifikasi tersebut. Terdapat juga menu riwayat untuk memunculkan history pengingat yang kita buat. Data riwatar tersebut dapat juga di bersihkan.
+- Aplikasi yang dibuat adalah aplikasi yang dapat membuat pengingat pada ponsel kita dengan memanfaatkan fitur notifikasi. 
+- Lama waktu mundur untuk pengingat dapat diatur dengan jangka maksimal 24 jam. 
+- Kita dapat mengubah judul notifikasi dan isi dari notifikasi tersebut. 
+- Terdapat juga menu riwayat untuk memunculkan history pengingat yang kita buat. Data riwayar tersebut dapat juga di bersihkan.
+- Suara dan getaran dari pengingat akan mengikuti suara default notifikasi sistem kita. Dan pastikan untuk tidak mengaktifkan mode senyap jika ingin mendengarkan suara notifikasi.
+
+#### Tampilan Aplikasi
+<br>
+Menu utama
+<img src="https://github.com/Sinagafrinaldo/Tugas4_PAM_Pengingat_App/raw/main/gambar/Home.jpg" width="30%" height="30%">
+
+
+Mengisi data isi dan judul serta waktu
+<br>
+<img src="https://github.com/Sinagafrinaldo/Tugas4_PAM_Pengingat_App/raw/main/gambar/Home1.jpg" width="30%" height="30%">
+
+<br>
+Sukses membuat pengingat
+<img src="https://github.com/Sinagafrinaldo/Tugas4_PAM_Pengingat_App/blob/main/gambar/Homesubmit.jpg?raw=true" width="30%" height="30%">
+
+<br>
+Riwayat berhasil dibuat
+<img src="https://github.com/Sinagafrinaldo/Tugas4_PAM_Pengingat_App/raw/main/gambar/riwayat.jpg" width="30%" height="30%">
+
+<br>
+Notifikasi muncul
+<img src="https://github.com/Sinagafrinaldo/Tugas4_PAM_Pengingat_App/raw/main/gambar/notif.jpg" width="30%" height="30%">
+<img src="https://github.com/Sinagafrinaldo/Tugas4_PAM_Pengingat_App/raw/main/gambar/notif1.jpg" width="30%" height="30%">
+
+<br>
+Membuat notitifikasi baru
+<img src="https://github.com/Sinagafrinaldo/Tugas4_PAM_Pengingat_App/blob/main/gambar/home2.jpg?raw=true" width="30%" height="30%">
+
+<br>
+Sukses membuat pengingat
+<img src="https://github.com/Sinagafrinaldo/Tugas4_PAM_Pengingat_App/blob/main/gambar/home2sub.jpg?raw=true" width="30%" height="30%">
+
+<br>
+Riwayat berhasil dibuat
+<img src="https://github.com/Sinagafrinaldo/Tugas4_PAM_Pengingat_App/raw/main/gambar/riwayat2.jpg" width="30%" height="30%">
+
+<br>
+Notifikasi muncul
+<img src="https://github.com/Sinagafrinaldo/Tugas4_PAM_Pengingat_App/raw/main/gambar/notif2.jpg" width="30%" height="30%">
+
+
+#### 
 
 ### Daftar Package yang digunakan 
 
@@ -31,7 +77,7 @@ Aplikasi yang dibuat adalah aplikasi yang dapat membuat pengingat pada ponsel ki
     "expo-updates": "~0.11.6",
     
 ### Cara Menginstall aplikasi
-1. Download Aplikasi pada link berikut
+1. Download Aplikasi pada link  <a href="https://github.com/Sinagafrinaldo/Tugas4_PAM_Pengingat_App/raw/main/file%20apk/RC-Frinaldo%20Sinaga-119140064-Tugas%20Individu%204.apk">Disini </a>
 2. Buka di file manager di ponsel dan temukan file yang telah di download
 3. Install file .apk
 4. Jalankan aplikasi
